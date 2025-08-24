@@ -1,0 +1,16 @@
+output/*.csv
+csv_files/*.csv
+csv_files/*
+google_sheet/*.csv
+*.csv
+google_sheet/*.json
+google_sheet/__pycache__/*.pyc
+*.xlsx
+*.pdf
+*.csv
+combined_transactions.csv
+csv_files/.DS_Store
+.DS_Store
+financial-parser-468017-0514dc91ef05.json
+__pycache__/data_access.cpython-312.pyc
+__pycache__/google_sheet_dataparser.cpython-312.pyc
